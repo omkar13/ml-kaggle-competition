@@ -2,6 +2,7 @@
 Codes for the Shopee-IET Machine Learning Kaggle Competition (Achieved rank 2 out of 51)
 
 Contest page link: https://www.kaggle.com/c/shopee-iet-machine-learning-competition#description
+
 Leaderboard link (team name - hesl): https://www.kaggle.com/c/shopee-iet-machine-learning-competition/leaderboard
 
 Used a deep learning based ensemble model and a few data augmentation techniques to obtain top performance in the above challenge.
