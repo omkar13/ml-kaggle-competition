@@ -1,5 +1,5 @@
 # ml-kaggle-competition
-Codes for the Shopee-IET Machine Learning Kaggle Competition (Achieved rank 2 out of 51)
+This repository contains codes for the Shopee-IET Machine Learning Kaggle Competition (Achieved rank 2 out of 51). The work was done during my internship at the Nanyang Technological University, Singapore in Spring 2018.
 
 Contest page link: https://www.kaggle.com/c/shopee-iet-machine-learning-competition#description
 
@@ -19,3 +19,8 @@ Main scripts:
 3. test.py - tests the model and outputs predictions
 4. test_top5.py - Predicts the top 5 classes along with their confidence on test data.
 5. ensemble_optimal.py - Uses the top 5 predictions of each model to give final prediction
+
+Contributors: 
+1. Omkar Damle
+2. [Rydel Dcosta](https://github.com/rydeldcosta)
+3. Punit Bhatt
