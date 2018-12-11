@@ -21,6 +21,6 @@ Main scripts:
 5. ensemble_optimal.py - Uses the top 5 predictions of each model to give final prediction
 
 Contributors: 
-1. Omkar Damle
-2. [Rydel Dcosta](https://github.com/rydeldcosta)
-3. Punit Bhatt
+1. Omkar Damle (New York University, United States)
+2. [Rydel Dcosta](https://github.com/rydeldcosta) (Morgan Stanley, India)
+3. Punit Bhatt (Microsoft, India)
